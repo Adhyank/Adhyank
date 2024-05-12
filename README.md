@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Adhyank
+- 👋 Hi, I’m @ YASH
 - 👀 I’m interested in learning new things.
 - 🌱 I’m currently learning HTML,js,c+,c++,css.
 - 😄 My friend Pronouns me: HACKER
